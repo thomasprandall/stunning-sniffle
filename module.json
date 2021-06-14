@@ -4,5 +4,6 @@
   "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
   "author": "Trapline",
   "version": "1.0.0",
-  "minimumCoreVersion": "0.5.0"
+  "minimumCoreVersion": "0.5.0",
+  "download": "https://github.com/thomasprandall/stunning-sniffle/archive/refs/tags/1.0.zip"
 }
